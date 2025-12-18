@@ -27,80 +27,6 @@ Senior Full-Stack Engineer (14+ años). He trabajado en proyectos de distintos g
 
 ## Experiencia y Proyectos
 
-## Novutek — Full-Stack Developer
-
-### Gestión de Pensionados — Cliente: ISSSTE
-Sistema para administración y gestión de pensiones.
-- Desarrollo/mantenimiento de funcionalidades y reglas de negocio.
-- Integración con base de datos y capa ORM.
-
-**Stack:** Java (AWT), Hibernate, Spring, Informix, SVN
-
-### Declaragua — Cliente: CONAGUA
-Proyecto enfocado en digitalizar y centralizar la gestión de declaraciones y procesos operativos relacionados con administración del agua.
-- Captura de datos, validaciones y flujos de seguimiento.
-- Reportes y mantenimiento evolutivo del sistema.
-
-**Stack:** ASP.NET Framework, C#, NHibernate, SQL Server, Git
-
-### Gestión Académica — Cliente: ITSON (Instituto Tecnológico de Sonora)
-Plataforma para procesos universitarios.
-- Publicación de vacantes y gestión de postulaciones.
-- Organigrama / estructura organizacional.
-- Administración de plazas y asignación de materias / carga académica.
-
-**Stack:** Angular, Java, Spring Boot, MySQL, Git
-
----
-
-## Freelance
-
-### Gestión de Almacén — Cliente: Onecore
-Aplicación híbrida enfocada a Android para gestión de paquetes (entradas/salidas) y su seguimiento dentro del almacén.
-- Flujos operativos y trazabilidad de movimientos.
-- Integración con backend y base de datos.
-
-**Stack:** Ionic (Angular), .NET Framework, C#, SQL Server, Git
-
-### Suite Aduanal — Cliente: Onecore
-Mantenimiento y desarrollo de nuevas funcionalidades para la aplicación principal de procesos aduanales.
-- Validación de formatos/layouts requeridos por Hacienda para declaraciones de importación/exportación.
-- Ajustes evolutivos, correcciones y mejoras.
-
-**Stack:** .NET Framework, C#, Visual Basic, SQL Server, jQuery, Angular, Git
-
-### Vatten — Organismos de Aguas (Sonora)
-Proyecto enfocado en procesos administrativos de organismos de agua.
-- Desarrollo y mejoras para adaptación a requerimientos.
-- Implementaciones para organismos de municipios: **Benito Juárez** y **Álamos** (Sonora).
-
-**Stack:** Java, PrimeFaces, SQL Server, Git
-
-### Pagos en Línea (Vatten) — Organismo de Aguas Álamos
-Sitio web para administración de pagos en línea y consulta de información del usuario (pagos/saldos).
-- Administración de pagos, consulta de estados y saldos.
-
-**Stack:** Angular, Java, Spring Boot, SQL Server, Git
-
-### Lectura de Tomas (Vatten) — Organismo de Aguas Álamos
-Aplicación Android para captura de lecturas **online/offline**, sincronizada con la plataforma Vatten.
-- Sincronización y operación offline.
-- Interfaz para impresión de ticket/recibo al momento.
-
-**Stack:** Ionic (Angular), Java, Spring Boot, SQLite, SQL Server, Git
-
----
-
-## Gisnet SC
-
-### Gestión Catastral — Organismos Catastrales
-Aplicación web para gestión de procesos catastrales internos:
-- Registro/alta y baja de claves catastrales.
-- Lotificación, división, cambio de propietario.
-- Gestión documental y seguimiento por etapas del trámite.
-
-**Stack:** Java, Spring Boot, PostgreSQL, jQuery, Git
-
 ---
 
 ## Lumston
@@ -143,3 +69,79 @@ Aplicación para **gestión de créditos (préstamos)** (Líder Técnico).
 - Gestión de pagos, refinanciamientos, cancelaciones y renovaciones.
 
 **Stack:** Java, Spring Boot, Android, PostgreSQL, AWS, Git
+
+---
+
+## Gisnet SC
+
+### Gestión Catastral — Organismos Catastrales
+Aplicación web para gestión de procesos catastrales internos:
+- Registro/alta y baja de claves catastrales.
+- Lotificación, división, cambio de propietario.
+- Gestión documental y seguimiento por etapas del trámite.
+
+**Stack:** Java, Spring Boot, PostgreSQL, jQuery, Git
+
+---
+
+## Freelance
+
+### Gestión de Almacén — Cliente: Onecore
+Aplicación híbrida enfocada a Android para gestión de paquetes (entradas/salidas) y su seguimiento dentro del almacén.
+- Flujos operativos y trazabilidad de movimientos.
+- Integración con backend y base de datos.
+
+**Stack:** Ionic (Angular), .NET Framework, C#, SQL Server, Git
+
+### Suite Aduanal — Cliente: Onecore
+Mantenimiento y desarrollo de nuevas funcionalidades para la aplicación principal de procesos aduanales.
+- Validación de formatos/layouts requeridos por Hacienda para declaraciones de importación/exportación.
+- Ajustes evolutivos, correcciones y mejoras.
+
+**Stack:** .NET Framework, C#, Visual Basic, SQL Server, jQuery, Angular, Git
+
+### Vatten — Organismos de Aguas (Sonora)
+Proyecto enfocado en procesos administrativos de organismos de agua.
+- Desarrollo y mejoras para adaptación a requerimientos.
+- Implementaciones para organismos de municipios: **Benito Juárez** y **Álamos** (Sonora).
+
+**Stack:** Java, PrimeFaces, SQL Server, Git
+
+### Pagos en Línea (Vatten) — Organismo de Aguas Álamos
+Sitio web para administración de pagos en línea y consulta de información del usuario (pagos/saldos).
+- Administración de pagos, consulta de estados y saldos.
+
+**Stack:** Angular, Java, Spring Boot, SQL Server, Git
+
+### Lectura de Tomas (Vatten) — Organismo de Aguas Álamos
+Aplicación Android para captura de lecturas **online/offline**, sincronizada con la plataforma Vatten.
+- Sincronización y operación offline.
+- Interfaz para impresión de ticket/recibo al momento.
+
+**Stack:** Ionic (Angular), Java, Spring Boot, SQLite, SQL Server, Git
+
+--
+
+## Novutek — Full-Stack Developer
+
+### Gestión de Pensionados — Cliente: ISSSTE
+Sistema para administración y gestión de pensiones.
+- Desarrollo/mantenimiento de funcionalidades y reglas de negocio.
+- Integración con base de datos y capa ORM.
+
+**Stack:** Java (AWT), Hibernate, Spring, Informix, SVN
+
+### Declaragua — Cliente: CONAGUA
+Proyecto enfocado en digitalizar y centralizar la gestión de declaraciones y procesos operativos relacionados con administración del agua.
+- Captura de datos, validaciones y flujos de seguimiento.
+- Reportes y mantenimiento evolutivo del sistema.
+
+**Stack:** ASP.NET Framework, C#, NHibernate, SQL Server, Git
+
+### Gestión Académica — Cliente: ITSON (Instituto Tecnológico de Sonora)
+Plataforma para procesos universitarios.
+- Publicación de vacantes y gestión de postulaciones.
+- Organigrama / estructura organizacional.
+- Administración de plazas y asignación de materias / carga académica.
+
+**Stack:** Angular, Java, Spring Boot, MySQL, Git
