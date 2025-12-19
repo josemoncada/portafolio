@@ -31,29 +31,6 @@ Senior Full-Stack Engineer (14+ años). He trabajado en proyectos de distintos g
 
 ## Lumston
 
-### Gestión de Personal — Cliente: ICA
-Aplicación para gestión de personal y procesos RH:
-- Enrolamiento de personal.
-- Administración de horarios y calendario laboral.
-- Registro de entrada/salida con app móvil e integración de **reconocimiento facial**.
-- Tabulador para cálculo de nómina.
-
-**Stack:** NestJS (Node.js), Angular, Android, MySQL, AWS, C#
-
-### S4IoT — Cliente: S4IoT
-Aplicación para monitoreo de tanques de gas.
-- Gestión de clientes gaseros y monitoreo de dispositivos instalados.
-- Procesamiento de datos, cálculos y estadísticas a partir de telemetría.
-
-**Stack:** Node.js, Angular, MySQL, AWS, Git
-
-### Merit & Demerit — Cliente: Viva Aerobus
-Aplicación web y móvil para evaluación de personal (Arquitecto / Líder Técnico).
-- Plataforma web para administración de evaluaciones y seguimiento de solicitudes.
-- App móvil para empleados: evaluaciones y consulta de desempeño.
-
-**Stack:** NestJS (Node.js), Angular, Android, AWS, MySQL, Git
-
 ### Aplicación Fintech — Cliente: Smart Plus
 Plataforma fintech (Arquitecto de Solución / Líder Técnico).
 - Trabajo directo con cliente en infraestructura.
@@ -69,6 +46,29 @@ Aplicación para **gestión de créditos (préstamos)** (Líder Técnico).
 - Gestión de pagos, refinanciamientos, cancelaciones y renovaciones.
 
 **Stack:** Java, Spring Boot, Android, PostgreSQL, AWS, Git
+
+### Merit & Demerit — Cliente: Viva Aerobus
+Aplicación web y móvil para evaluación de personal (Arquitecto / Líder Técnico).
+- Plataforma web para administración de evaluaciones y seguimiento de solicitudes.
+- App móvil para empleados: evaluaciones y consulta de desempeño.
+
+**Stack:** NestJS (Node.js), Angular, Android, AWS, MySQL, Git
+
+### Gestión de Personal — Cliente: ICA
+Aplicación para gestión de personal y procesos RH:
+- Enrolamiento de personal.
+- Administración de horarios y calendario laboral.
+- Registro de entrada/salida con app móvil e integración de **reconocimiento facial**.
+- Tabulador para cálculo de nómina.
+
+**Stack:** NestJS (Node.js), Angular, Android, MySQL, AWS, C#
+
+### S4IoT — Cliente: S4IoT
+Aplicación para monitoreo de tanques de gas.
+- Gestión de clientes gaseros y monitoreo de dispositivos instalados.
+- Procesamiento de datos, cálculos y estadísticas a partir de telemetría.
+
+**Stack:** Node.js, Angular, MySQL, AWS, Git
 
 ---
 
